@@ -1,0 +1,53 @@
+# GmnBox | obliviousgmn.deviantart.com
+# Clean & Simple Openbox Theme 
+# Modified to go with the theme by  Misaka !MiKoto.HE2 
+# Palette..
+# BG:    #ffeff4
+# Bar:   #ffeff4
+# Text:  #7c7c7c
+
+# Menu 
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #ffeff4
+menu.items.active.text.color: #ff8fb4
+menu.items.bg: flat solid
+menu.items.bg.color: #ffeff4
+menu.items.disabled.text.color: #7c7c7c
+menu.items.text.color: #7c7c7c
+menu.overlap.x: -4
+menu.separator.color: #ffeff4
+menu.title.bg: flat solid
+menu.title.*.color: #7c7c7c
+menu.border.color: #ffeff4
+*.title.text.justify: left
+
+# OSD
+osd.bg: Solid Flat
+osd.bg.color: #ffeff4
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #ffeff4
+osd.label.bg: parentrelative
+osd.label.text.color: #7c7c7c
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #ffedf3
+
+# Padding
+padding.height: 1
+padding.width: 24
+
+#Window
+border.width: 1
+window.handle.width: 0
+window.client.padding.width: 0
+window.active.title.bg: flat
+window.*.title.bg: flat
+window.*.title.bg.color: #ffedf3
+window.*.title.separator.color: #ffeff4
+
+#Tweaks
+window.*.label.bg: parentrelative
+window.*.button.*.bg: parentrelative
+window.*.label.text.color: #ffeff4
+window.*.button.*.image.color: #ffeff4
+
+
